@@ -23,7 +23,7 @@ function Signup() {
             setTimeout(() => {
                 toast.success(data?.message, { position: 'top-center' });
                 setLoading(false);
-                // toast.success("Please log in to continue!", { position: 'top-center' });
+                toast.success("Please log in to continue!", { position: 'top-center' });
             }, 1500)
         } catch (err) {
             setTimeout(() => {

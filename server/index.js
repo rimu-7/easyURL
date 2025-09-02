@@ -13,7 +13,6 @@ const app = express();
 // CORS Configuration
 // ========================
 app.use(cors());
-app.options("*", cors()); 
 
 // ========================
 // Middleware

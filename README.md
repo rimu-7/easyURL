@@ -3,7 +3,7 @@
 Welcome to **EasyURL**, a fully-featured, full-stack **URL Shortener** built with the **MERN** stack. This project simulates a real-world SaaS-style product complete with analytics, authentication, sharing, QR generation, and more.
 
 ## 🔗 Live Demo
-👉 [https://easyurl-online.netlify.app/](Live_Demo)
+👉 [Live_Demo](https://easyurl-online.netlify.app/))
 
 ---
 
